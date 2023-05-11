@@ -4,9 +4,9 @@
     "samples": [
       {
         "name": "EVENTO GOTI 1",
-        "uri": "https://keys.digitaltv.cloud/k/EVENTO191022.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://keys.digitaltv.cloud/k/EVENTOKEY1191022"
+        "uri" : "https://cdnhd.iblups.com/hls/TxIRX36Ndx.m3u8"
+   
+
       },
       {
         "name": "EVENTO GOTI 2",
