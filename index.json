@@ -1,5 +1,28 @@
 [
   {
+    "name": "EVENTOS",
+    "samples": [
+      {
+        "name": "EVENTO GOTI 1",
+        "uri": "https://keys.digitaltv.cloud/k/EVENTO3191022.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://keys.digitaltv.cloud/k/EVENTOKEY3191022"
+      },
+      {
+        "name": "EVENTO GOTI 2",
+        "uri": "https://keys.digitaltv.cloud/k/EVENTO191022.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://keys.digitaltv.cloud/k/EVENTOKEY191022"
+      },
+      {
+        "name": "EVENTO GOTI 3",
+        "uri": "https://keys.digitaltv.cloud/k/EVENTO2191022.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://keys.digitaltv.cloud/k/EVENTOKEY2191022"
+      }
+    ]
+  },
+  {
     "name": "CULTURA",
     "samples": [
       {
@@ -67,22 +90,6 @@
   {
     "name": "PARAGUAY",
     "samples": [
-      {
-        "name": "EVENTOS PR 1",
-        "uri": "https://southamerica-east-hls.mls.mycujoo.tv/esgp/claijf7nc0q0p01741o4ih3d8/master.m3u8"
-      },
-      {
-        "name": "EVENTOS PR 2",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears_uhd.mpd"
-      },
-      {
-        "name": "EVENTOS PR 3",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/vp9/subsample/24fps/tears/tears.mpd"
-      },
-      {
-        "name": "MOTORSUR TV",
-        "uri": "https://video.camaronhosting.com/motorsur/motorsur/playlist.m3u8"
-      },
       {
         "name": "TRECE PY",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd",
