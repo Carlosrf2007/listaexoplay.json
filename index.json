@@ -205,7 +205,7 @@
         "name": "ESPN",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/json/espn.json"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/espn1.json"
       },
       {
         "name": "ESPN 2",
