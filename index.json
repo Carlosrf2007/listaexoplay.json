@@ -300,7 +300,13 @@
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/tntsporthd.json"
-      }
+      },
+      {
+        "name": "STAR+",
+        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/05/11/Minnesota_Twins_vs_San_Di_20230511_1683819002025/ctr-all-complete.m3u8",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/star.json"
+      },
     ]
   },
   {
