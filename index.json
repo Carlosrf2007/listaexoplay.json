@@ -260,18 +260,6 @@
         "drm_license_uri": "https://static.dplay.tech/imagenes/json/deportv.json"
       },
       {
-        "name": "VTV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/json/uruguay/vtv1.json"
-      },
-      {
-        "name": "VTV PLUS",
-        "uri": "https://servicios.dplay.tech/vtvplus/get2.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/json/uruguay/vtvplusdtv.json"
-      },
-      {
         "name": "GARAGE TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd",
         "drm_scheme": "clearkey",
@@ -311,7 +299,7 @@
         "name": "TNT SPORT HD",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/json/tntsport.json"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/tntsporthd.json"
       }
     ]
   },
