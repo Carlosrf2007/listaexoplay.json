@@ -313,6 +313,10 @@
         "uri": "http://179.41.1.86/exec/ch2_bak.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv2.json"
+      },
+      {
+        "name": "WWE NETWORK",
+        "uri": "https://ddy1.salamus1.lol/ddy1/premium343/tracks-v1a1/mono.m3u8"
       }
     ]
   },
