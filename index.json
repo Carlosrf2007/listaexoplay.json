@@ -317,9 +317,7 @@
       {
         "name": "WWE NETWORK",
         "uri": "https://ddy1.salamus1.lol/ddy1/premium343/tracks-v1a1/mono.m3u8",
-        "drm_key_request_properties": {
-  "referer": "https://ntuplay.xyz"
-}
+        "referer": "https://ntuplay.xyz"
       }
     ]
   },
