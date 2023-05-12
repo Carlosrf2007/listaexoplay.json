@@ -307,6 +307,12 @@
         "uri": "https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/directvcolo.json"
+      },
+      {
+        "name": "DIRECTV 2",
+        "uri": "http://179.41.1.86/exec/ch2_bak.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv2.json"
       }
     ]
   },
