@@ -313,6 +313,12 @@
         "uri": "http://179.41.1.86/exec/ch2_bak.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv2.json"
+      },
+      {
+        "name": "DIRECTV +",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "http://exoplay.epizy.com/key/diretmas.json"
       }
     ]
   },
