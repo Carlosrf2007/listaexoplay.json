@@ -323,6 +323,46 @@
     ]
   },
   {
+    "name": "DAZN",
+    "samples": [
+      {
+        "name": "DAZN ALEMANIA",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN ALEMANIA 2",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN ESPAÑA 1",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN ESPAÑA 2",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN FORMULA 1",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd?p=web"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN LA LIGA",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd?p=web"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      }
+    ]
+  {
     "name": "INTERNACIONALES",
     "samples": [
       {
