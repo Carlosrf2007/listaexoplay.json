@@ -364,6 +364,12 @@
         "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd?p=web",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "VIX A",
+        "uri" : "https://dcs-live-ue4.mp.lura.live/server/play/019n91h1VmpZs2q0/manifest.mpd?anvsid=m177635093-nb0fbc3d16819126c984dd2229cf8f614",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/Vix.json"  
       }
     ]
   },
