@@ -367,7 +367,7 @@
       },
       {
         "name": "VIX A",
-        "uri" : "https://corsproxy.io/?url=https://dumper-true.xyz/2.json",
+        "uri" : "https://dcs3-live-uw1-2.mp.lura.live/server/play/7GnqnNT9v6Prtroj/manifest.mpd?anvsid=m176955178-n7c26e82a213393279be4417c62bd74f5",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://drm3.mp.lura.live/cenc?eqp=c0vM4XHw0qbqa35IiZcq5Ytqhk9EzCFLs7aBx_SyT_tD4hccEamZqf9yhlKXc_objB7v5W8y3pEwHRop9Uj7MR3cCohe1NRr_Mg8k6vpi8Z0ID5YyBpIYynM7sd7ihMi113MAvys2m36LtPk9U7dsbZBtoiz66O8wBBqCZQHhT-1k9wO_Ircl_t0Qr3RyMrTm1wu3AVpEitTFlrnPwag0vGlGe0XRasswJLiA2tb0scL-mk3khJqm-KQl6_jTEnlnEuaEBXJmgiLkr-r09Kbr7Hso6V8Y-R277zrTw9mKHRzFA-jTbhBtKlGnzVJhOKC&anvauth=tb=0~te=1684271748~sgn=cc4e72e181e078762e321831e726de42ebd679a359c5348c733825ab234ab550&t=1684260948"  
       }
