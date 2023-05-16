@@ -367,9 +367,9 @@
       },
       {
         "name": "VIX A",
-        "uri" : "https://dcs-live-ue4.mp.lura.live/server/play/ADn3nqTORo32sEO7/manifest.mpd?anvsid=m177635092-ne0bb5fd42d19ce8662e2c6aee1b1767f",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/Vix.json"  
+        "uri" : "https://dcs3-live-ue1.mp.lura.live/server/play/0MqnqghkvXVNIEm0/manifest.mpd?anvsid=m176963355-n3affb8d43b72f1268220bf2f218069e8",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm3.mp.lura.live/cenc?eqp=HAB2CMh0lU8z7E9r0QMWHcIf49hXgacr29Codk2r6WBtOByNij0LsjRzB9bzM14YzaHYIX-DbpK2uya1MQaYettkhYfeywSDoXZnHjYFdu3ZiLLEuQhnkLimr3V6tNN-xxr5Kk1h6jBpbNXmem3BAWO4ufyVk2C7xBnBHMHoEODw2ZHqZKqh_wfX7sJjnMgxBrKZUB0H8F8E_v_9FV7u5b3rM7BX8DejUSdfcVfDRkTRSCP9LizZVqRql87lOi8m0EV3i1Iq4M3dO3drbKmKa9DkkKktvSLOlHELrBXCNzMfGbFRxFgIsPatvE28Eqzi&anvauth=tb=0~te=1684250136~sgn=be6acf76c858cb8c00e4f53ab5436849bc96ba2d44a928e107c45687b44f73d6&t=1684239336&guid=0e7d9696-a033-91da-ce76313698ac"  
       }
     ]
   },
