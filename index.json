@@ -323,6 +323,12 @@
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json"
+      },
+      {
+        "name": "TYC SPORT",
+        "uri": "https://edge-live12-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       }
     ]
   },
