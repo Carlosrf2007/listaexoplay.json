@@ -437,9 +437,9 @@
       },
       {
         "name": "VIX",
-        "uri" : "https://dcs3-live-uw1-2.mp.lura.live/server/play/7GnqnNT9v6Prtroj/manifest.mpd?anvsid=m176955187-n30d9abc52078660c44a70e7924d3b226",
+        "uri" : "https://dcs-live-uw1.mp.lura.live/server/play/7GnqnNT9v6Prtroj/manifest.mpd?anvsid=m177610516-nc70d2c6895d4e599f670381020579995",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://drm3.mp.lura.live/cenc?eqp=c0vM4XHw0qbqa35IiZcq5Ytqhk9EzCFLs7aBx_SyT_tD4hccEamZqf9yhlKXc_objB7v5W8y3pEwHRop9Uj7MR3cCohe1NRr_Mg8k6vpi8Z0ID5YyBpIYynM7sd7ihMi113MAvys2m36LtPk9U7dsbZBtoiz66O8wBBqCZQHhT-1k9wO_Ircl_t0Qr3RyMrTm1wu3AVpEitTFlrnPwag0vGlGe0XRasswJLiA2tb0scL-mk3khJqm-KQl6_jTEnlnEuaEBXJmgiLkr-r09Kbr7Hso6V8Y-R277zrTw9mKHRzFA-jTbhBtKlGnzVJhOKC&anvauth=tb=0~te=1684271748~sgn=cc4e72e181e078762e321831e726de42ebd679a359c5348c733825ab234ab550&t=1684260948"  
+        "drm_license_uri": "https://drm3.mp.lura.live/cenc?eqp=t3ICJJ6nkJrpnM72dI7KLtKQbXrOINVkQe3VgYfKEXMP3kc1HHyCjApyiUy8_WTN2U9hzNdtHe3zNrwBxoJY_H4TUAj59Bwwd8NgIoyd4aSL4wcE6bUKnfusI_cCRJYyTQ62auIWIYP1sLHEvcoRUIpJptX9tdEaR-95q0I5QCroABWC5VO5repydHiyHFt_ye4z-gLAYiD-mm-Jy7oB587njF0rLCzyO8e_vGcZ2N7_KZBda81ICBbdaLMTBCzP-5tusASu96B8bKwkOcrVaN3tWJSFSWzb2S9OVui8eErBAxkxHkwA5YUYKmzE90QP&anvauth=tb=0~te=1684303530~sgn=788c52ce0966ac467da99c088c9565feb1e6cb83814df79639f6d109422967ab&t=1684292730&guid=f50bebb7-8aea-aae7-9ca3ae9f2fd9"  
       },
       {
         "name": "TUDN",
