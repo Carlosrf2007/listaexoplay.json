@@ -204,6 +204,59 @@
     ]
   },
   {
+    "name": "HBO-S",
+    "samples": [
+      {
+        "name": "HBO",
+        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      },
+      {
+        "name": "HBO 2",
+        "uri": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      },
+      {
+        "name": "HBO XTREME",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      },
+      {
+        "name": "HBO FAMILY",
+        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      },
+      {
+        "name": "HBO SIGNATURE",
+        "uri": "https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      },
+      {
+        "name": "HBO MUNDI",
+        "uri": "https://edge-live16-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      },
+      {
+        "name": "HBO PLUS",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      },
+      {
+        "name": "HBO POP",
+        "uri": "https://edge-live31-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      }
+    ]
+  }
+  {
     "name": "DEPORTES",
     "samples": [
       {
