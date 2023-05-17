@@ -415,7 +415,7 @@
         "name": "Olimpia vs. General Caballero JLM",
         "uri" : "https://d27sl0ch5ta2im.cloudfront.net/OlimpiavsGeneralCaballeroJLM16052023/OlimpiavsGeneralCaballeroJLM16052023.mpd?tts=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiYzBhMTQwMjAtZDY1OS0xMWVkLTg4MDUtMGRhY2VjNTA2YjFmIiwibmFtZSI6InRpZ284ODg2MEBnbWFpbC5jb20iLCJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzExMy4wLjAuMCBTYWZhcmlcLzUzNy4zNiIsImRldmljZUlkIjoiNTZkMTdlNGQtZmM0NS00OWM4LTkxMTUtNmNjMzliMmJiNmRkIiwiaXBBZGRyZXNzIjoiMTgxLjk0LjIzMy4xOCIsInN0cmVhbWluZ1R5cGUiOiJOb3QgRnJlZSIsImlhdCI6MTY4NDI5MzE4OCwibmJmIjoxNjg0MjkzMTg4LCJleHAiOjE2ODQzMDc1ODh9.ABXmotuoPMJ_sLEa0Tq7Eoajje1GSl4rJlXnLQif2qM",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://ts-ott.pxt.onl/api/v4/security/jwt-drm"  
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/1c54.json"  
       }
     ]
   },
