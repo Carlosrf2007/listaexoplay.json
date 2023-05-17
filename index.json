@@ -1,5 +1,32 @@
 [
   {
+    "name": "UEFA CHAMPIONS LEGUE",
+    "samples": [
+      {
+        "name": "STAR+",
+        "uri" : "https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/05/17/Novak_Djokovic_SRB_vs_Hol_20230517_1684315853020/ctr-all-complete.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://ddddplay.000webhostapp.com/lili.php?token=eyJ6aXAiOiJERUYiLCJraWQiOiJRVmxCQXpUeFUzMVRtNWVfZTIzams0dFpwRWJpRERteWp6MDNsSS1hRVVBIiwiY3R5IjoiSldUIiwiZW5jIjoiQzIwUCIsImFsZyI6ImRpciJ9..H5UWyVdhzwP_9nnk.NG8EVyEKpa-JMyYATpS9fD8HUnbidLsfmK_-ZIq5dKYjD-IxUotr0mO3-2X8ptAqQLBd7u3JVfrS4UD51ZoJvEZPYcCe2EXCYGyorrWRXJ3eSy_ZU-cfStIi5Knh1sevjDI8n7qAzReqo0a4abBSKLtvf41BlUldABpi8ZRDvGW0QHe5IK5LuXXIRkhHTsbos7_vDtjNWUQ9Q4qrkiKTPTVN4fnpWmIfR_OY2e2eXOaERRfpgpmNg57uiwgV-kslCf1huG7Rt0jilgpwBjBx0rQl-FrWjzYjuGNL2MB_RJ3O0u4FMrISxRtVGb8uAxNSj4lGwKMXojp0Em5222wDlbWytXTGgJxf3ZjwSxazKogojBp-FaSiEt5cOYBWDJj_tQpL7bVjc-JFzh6_4l6IOXWAlLRR5ljxm4SLZtKti-NL1Up9fBnY3oUwvakWkeq4snmw0sgtQZCKxICc-TuzJvm8ArQtHb4DorHgXq4X6AQdJHnK_02is7pDeuZOhj-zWZvxom7uRdX5UdyhiEedRb8rBujJymZX8PGVrRoqgRvlhF8LVjsRH3Mu9ZwB1ZeLLTVMragNpUv-AmyotbWQrN8LVtCtNu-fMFhDOXGDkohMeNarzafDRJ4h7cCvuuYm9Hs9Jx7woWz-6YyBW51abdsL8bnmL9DR6X2YaSIb8JOf17Ff8u_0edZe6YRJSmLthIX6QLoupaaXkPxZ7X8PTI63X9xae5ycZPpO1ivBaYo7ICsuh-LcAU2UPWblM0cilEVKvvKmAq-rX9K4vLfoQxWlSCoGRQww_VSRGwqHFjWu7SbF82pJJV1izOWBkb8LXxokT7llQlvrV6LVBy2nOMSh-ZWqY9ba3rNa2s3XVIv7Q28lEn3OkelL6xslcE5uKCNaJtakWxw7jJi0B4tpYL6l2yglF9FiOY2M26PgF3OSC0t-B-r4OVr3fBlfxf-Kyw4LHqVKj9Bnoy71SDtYVKy5Yc64KbcUQxseb0MYNOXk6SLXeqZ6bFjECoSXV0CNE9GCNBCInOOGHYgbAXXOl7XllMU_Lofx1Ge75Y-FisFnvTz0kWZTEoJNGW9ropcdvgMPQy2_XeLgbe57dN_4AuszedJZNd2lZgl0zrLN2WIB7irnZTOnc7U30j08dRWXQkCcCuHksgeX7MuLh8_3FxyoIzIAtffagsbMQHsnNPoFjpmX27GhXkfbmtJrmJP_G5td9-aqftq6djb9Mz6hMX4l10adAv5znfETWWJqXccM5nmrcFdT4YXJQp0imZWKAGjHUnN2XH9SUXe5fd4Lp7LSNRSTGEMCxpGSsa1rC-4Z6ecm6rIrhZYbL6w5tn2_zGkF4gn80aM2O6FvxVJzbfZZpq_wAOD4gqCEypj2dzv6qn4GFCJfzh_TOSp6UpBQxfyt3YYsZTHlWiJgb0WGr_jYJ5GAMLfwke6moKj9GeIu50iAM4-6GGcwkOmfvktPId5_ht6ixf4Bx0vKXbYfmKfJsdrVVdFTgFiZ8HCbarbtlr-2bhYOtnZhIwojVnneiwx5MJlhVwS-XWYQEpilJeJ4QyJtAuNu0hAoUVE_NGEYOzKfc7taH2Z75VP3DkeblQ6ypWawnPYsBbkURzpOASKt3GNOdp1grsNV-b2ktZBdI4XLsRUn0IubFoNVUiV3205MFWisCCyr86BFtoMHbTA69IofSXIejWIuwfvwl_BOwBc9R9R-di40wi2drDYj_1qn-uSxhMTd25BgMG4SER8zgCowDDPTTDMl166hFhRzGPI_AFbsC25Lum4AdxZYZj9kE-aDRLNJp52-Aura67hYSv2Tx5CgbYlm2dSYZ6wddsFu_tXf0Muqe3nPYzAb_JP-y9FoCBX0SRkGCeZhKUeow4unM5o2qWwjKoKfuaLs34EGzgNadXGkiKgQv2mGUCihvzQLzVffbMrJ9awT5LyqOvLOkAWqFFyd0TBUU8Bv4EJyD9pq0djsKz7c1BgSxZwOC5-3MJshgMWR5F_hUpHvqqIFRXEZuQIXK2Ixdk7nbHsJLe5dd_E7Na2QHmjlq4zxf9yrmtTh9icA6Aqh-6k4HU9Iu2RG6VugAwXlTtdwGWZqSsTFy1LsJ9cvlT67hafSKaddAQu2zagKEo0fkCmp9fji5TTjiGp-7Zzmqkx_kewNh3eYSflRwNEc8sZn2fOcoAkUcuo8s1OGK8vWuIk6cVErjIsf7E6ZRdGk7hU3qnQuL-IOLEpUkFxkUlwfZL69xISyyAP48UzNM93xFDH3kCgXvf6olZGS1fd_S0L6WByrF2sx4DK1yDTm7quQZSH8OQIjc1A2NOmndFT8oDy6q2aw-GOP7-Olb-viIqsby7DNcRcM2VntL4SOgK6U6V6GfTALWuXsKVAxSM4jXfww2qp5tDDQBZOAmT658TLl586m4XeAsuz7AytjZrtDrx2x_4dRPRSS_9_U3F6OEHblv1Qs71P87kJAlCVUfX6VNyge_LOFjknbViNoeR4PseZSi8dmlVHk7JNU7CyNpF5Vf4pP7gYKq4QhX4JQ8LNitJDbyv61en5Zzf0XhDgi6D771f4GgOgt-35hxYoAJlA_HrCL1yXN_Kmz2qKq85jK07MPWL9A8pG060OJnZ2ETJbBdzJR4Dxer2Mq_tmCobcj6eXsVCe4MImHc21-lRm4KScApX9zeQB_dFTxW64svePKItnOaA8xJ7yVR4IszAyedBN1tA0MbHuYBQMqy4vZja-f0TFFcppHP-SMrSx2GFUw4hKovVtptbr4iVFcZibsv2hh9YnTsWrZwsYrEF9ou0ZoBkmKzTqP3nAs18j2QcauCeYXN-QSyiHVamE40LhSx-dtzg.jSE1bS3E1ITOYgzmNPDqMg"  
+      },
+      {
+        "name": "VIX",
+        "uri" : "https://dcs-live-uw1.mp.lura.live/server/play/7GnqnNT9v6Prtroj/manifest.mpd?anvsid=m177610516-nc70d2c6895d4e599f670381020579995",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm3.mp.lura.live/cenc?eqp=t3ICJJ6nkJrpnM72dI7KLtKQbXrOINVkQe3VgYfKEXMP3kc1HHyCjApyiUy8_WTN2U9hzNdtHe3zNrwBxoJY_H4TUAj59Bwwd8NgIoyd4aSL4wcE6bUKnfusI_cCRJYyTQ62auIWIYP1sLHEvcoRUIpJptX9tdEaR-95q0I5QCroABWC5VO5repydHiyHFt_ye4z-gLAYiD-mm-Jy7oB587njF0rLCzyO8e_vGcZ2N7_KZBda81ICBbdaLMTBCzP-5tusASu96B8bKwkOcrVaN3tWJSFSWzb2S9OVui8eErBAxkxHkwA5YUYKmzE90QP&anvauth=tb=0~te=1684303530~sgn=788c52ce0966ac467da99c088c9565feb1e6cb83814df79639f6d109422967ab&t=1684292730&guid=f50bebb7-8aea-aae7-9ca3ae9f2fd9"  
+      },
+      {
+        "name": "TUDN",
+        "uri" : "https://nffthex0kzt.xyz/rk/tJ6t3hZMfS/cudyrDt7sa/913.ts",  
+      },
+      {
+        "name": "TUDN HD",
+        "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/TUDN.json"  
+      }
+    ]
+  },
+  {
     "name": "EVENTOS",
     "samples": [
       {
@@ -423,44 +450,6 @@
         "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd?p=web",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
-      }
-    ]
-  },
-  {
-    "name": "UEFA CHAMPIONS LEGUE",
-    "samples": [
-      {
-        "name": "STAR+",
-        "uri" : "https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/05/17/Novak_Djokovic_SRB_vs_Hol_20230517_1684315853020/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://ddddplay.000webhostapp.com/lili.php?token=eyJ6aXAiOiJERUYiLCJraWQiOiJRVmxCQXpUeFUzMVRtNWVfZTIzams0dFpwRWJpRERteWp6MDNsSS1hRVVBIiwiY3R5IjoiSldUIiwiZW5jIjoiQzIwUCIsImFsZyI6ImRpciJ9..H5UWyVdhzwP_9nnk.NG8EVyEKpa-JMyYATpS9fD8HUnbidLsfmK_-ZIq5dKYjD-IxUotr0mO3-2X8ptAqQLBd7u3JVfrS4UD51ZoJvEZPYcCe2EXCYGyorrWRXJ3eSy_ZU-cfStIi5Knh1sevjDI8n7qAzReqo0a4abBSKLtvf41BlUldABpi8ZRDvGW0QHe5IK5LuXXIRkhHTsbos7_vDtjNWUQ9Q4qrkiKTPTVN4fnpWmIfR_OY2e2eXOaERRfpgpmNg57uiwgV-kslCf1huG7Rt0jilgpwBjBx0rQl-FrWjzYjuGNL2MB_RJ3O0u4FMrISxRtVGb8uAxNSj4lGwKMXojp0Em5222wDlbWytXTGgJxf3ZjwSxazKogojBp-FaSiEt5cOYBWDJj_tQpL7bVjc-JFzh6_4l6IOXWAlLRR5ljxm4SLZtKti-NL1Up9fBnY3oUwvakWkeq4snmw0sgtQZCKxICc-TuzJvm8ArQtHb4DorHgXq4X6AQdJHnK_02is7pDeuZOhj-zWZvxom7uRdX5UdyhiEedRb8rBujJymZX8PGVrRoqgRvlhF8LVjsRH3Mu9ZwB1ZeLLTVMragNpUv-AmyotbWQrN8LVtCtNu-fMFhDOXGDkohMeNarzafDRJ4h7cCvuuYm9Hs9Jx7woWz-6YyBW51abdsL8bnmL9DR6X2YaSIb8JOf17Ff8u_0edZe6YRJSmLthIX6QLoupaaXkPxZ7X8PTI63X9xae5ycZPpO1ivBaYo7ICsuh-LcAU2UPWblM0cilEVKvvKmAq-rX9K4vLfoQxWlSCoGRQww_VSRGwqHFjWu7SbF82pJJV1izOWBkb8LXxokT7llQlvrV6LVBy2nOMSh-ZWqY9ba3rNa2s3XVIv7Q28lEn3OkelL6xslcE5uKCNaJtakWxw7jJi0B4tpYL6l2yglF9FiOY2M26PgF3OSC0t-B-r4OVr3fBlfxf-Kyw4LHqVKj9Bnoy71SDtYVKy5Yc64KbcUQxseb0MYNOXk6SLXeqZ6bFjECoSXV0CNE9GCNBCInOOGHYgbAXXOl7XllMU_Lofx1Ge75Y-FisFnvTz0kWZTEoJNGW9ropcdvgMPQy2_XeLgbe57dN_4AuszedJZNd2lZgl0zrLN2WIB7irnZTOnc7U30j08dRWXQkCcCuHksgeX7MuLh8_3FxyoIzIAtffagsbMQHsnNPoFjpmX27GhXkfbmtJrmJP_G5td9-aqftq6djb9Mz6hMX4l10adAv5znfETWWJqXccM5nmrcFdT4YXJQp0imZWKAGjHUnN2XH9SUXe5fd4Lp7LSNRSTGEMCxpGSsa1rC-4Z6ecm6rIrhZYbL6w5tn2_zGkF4gn80aM2O6FvxVJzbfZZpq_wAOD4gqCEypj2dzv6qn4GFCJfzh_TOSp6UpBQxfyt3YYsZTHlWiJgb0WGr_jYJ5GAMLfwke6moKj9GeIu50iAM4-6GGcwkOmfvktPId5_ht6ixf4Bx0vKXbYfmKfJsdrVVdFTgFiZ8HCbarbtlr-2bhYOtnZhIwojVnneiwx5MJlhVwS-XWYQEpilJeJ4QyJtAuNu0hAoUVE_NGEYOzKfc7taH2Z75VP3DkeblQ6ypWawnPYsBbkURzpOASKt3GNOdp1grsNV-b2ktZBdI4XLsRUn0IubFoNVUiV3205MFWisCCyr86BFtoMHbTA69IofSXIejWIuwfvwl_BOwBc9R9R-di40wi2drDYj_1qn-uSxhMTd25BgMG4SER8zgCowDDPTTDMl166hFhRzGPI_AFbsC25Lum4AdxZYZj9kE-aDRLNJp52-Aura67hYSv2Tx5CgbYlm2dSYZ6wddsFu_tXf0Muqe3nPYzAb_JP-y9FoCBX0SRkGCeZhKUeow4unM5o2qWwjKoKfuaLs34EGzgNadXGkiKgQv2mGUCihvzQLzVffbMrJ9awT5LyqOvLOkAWqFFyd0TBUU8Bv4EJyD9pq0djsKz7c1BgSxZwOC5-3MJshgMWR5F_hUpHvqqIFRXEZuQIXK2Ixdk7nbHsJLe5dd_E7Na2QHmjlq4zxf9yrmtTh9icA6Aqh-6k4HU9Iu2RG6VugAwXlTtdwGWZqSsTFy1LsJ9cvlT67hafSKaddAQu2zagKEo0fkCmp9fji5TTjiGp-7Zzmqkx_kewNh3eYSflRwNEc8sZn2fOcoAkUcuo8s1OGK8vWuIk6cVErjIsf7E6ZRdGk7hU3qnQuL-IOLEpUkFxkUlwfZL69xISyyAP48UzNM93xFDH3kCgXvf6olZGS1fd_S0L6WByrF2sx4DK1yDTm7quQZSH8OQIjc1A2NOmndFT8oDy6q2aw-GOP7-Olb-viIqsby7DNcRcM2VntL4SOgK6U6V6GfTALWuXsKVAxSM4jXfww2qp5tDDQBZOAmT658TLl586m4XeAsuz7AytjZrtDrx2x_4dRPRSS_9_U3F6OEHblv1Qs71P87kJAlCVUfX6VNyge_LOFjknbViNoeR4PseZSi8dmlVHk7JNU7CyNpF5Vf4pP7gYKq4QhX4JQ8LNitJDbyv61en5Zzf0XhDgi6D771f4GgOgt-35hxYoAJlA_HrCL1yXN_Kmz2qKq85jK07MPWL9A8pG060OJnZ2ETJbBdzJR4Dxer2Mq_tmCobcj6eXsVCe4MImHc21-lRm4KScApX9zeQB_dFTxW64svePKItnOaA8xJ7yVR4IszAyedBN1tA0MbHuYBQMqy4vZja-f0TFFcppHP-SMrSx2GFUw4hKovVtptbr4iVFcZibsv2hh9YnTsWrZwsYrEF9ou0ZoBkmKzTqP3nAs18j2QcauCeYXN-QSyiHVamE40LhSx-dtzg.jSE1bS3E1ITOYgzmNPDqMg"  
-      },
-      {
-        "name": "VIX",
-        "uri" : "https://dcs-live-uw1.mp.lura.live/server/play/7GnqnNT9v6Prtroj/manifest.mpd?anvsid=m177610516-nc70d2c6895d4e599f670381020579995",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://drm3.mp.lura.live/cenc?eqp=t3ICJJ6nkJrpnM72dI7KLtKQbXrOINVkQe3VgYfKEXMP3kc1HHyCjApyiUy8_WTN2U9hzNdtHe3zNrwBxoJY_H4TUAj59Bwwd8NgIoyd4aSL4wcE6bUKnfusI_cCRJYyTQ62auIWIYP1sLHEvcoRUIpJptX9tdEaR-95q0I5QCroABWC5VO5repydHiyHFt_ye4z-gLAYiD-mm-Jy7oB587njF0rLCzyO8e_vGcZ2N7_KZBda81ICBbdaLMTBCzP-5tusASu96B8bKwkOcrVaN3tWJSFSWzb2S9OVui8eErBAxkxHkwA5YUYKmzE90QP&anvauth=tb=0~te=1684303530~sgn=788c52ce0966ac467da99c088c9565feb1e6cb83814df79639f6d109422967ab&t=1684292730&guid=f50bebb7-8aea-aae7-9ca3ae9f2fd9"  
-      },
-      {
-        "name": "TUDN",
-        "uri" : "https://nffthex0kzt.xyz/rk/tJ6t3hZMfS/cudyrDt7sa/913.ts",  
-      },
-      {
-        "name": "TUDN HD",
-        "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/TUDN.json"  
-      }
-    ]
-  },
-  {
-    "name": "REPETICIONES FUTBOL PY",
-    "samples": [
-      {
-        "name": "Olimpia vs. General Caballero JLM",
-        "uri" : "https://d27sl0ch5ta2im.cloudfront.net/OlimpiavsGeneralCaballeroJLM16052023/OlimpiavsGeneralCaballeroJLM16052023.mpd?tts=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiYzBhMTQwMjAtZDY1OS0xMWVkLTg4MDUtMGRhY2VjNTA2YjFmIiwibmFtZSI6InRpZ284ODg2MEBnbWFpbC5jb20iLCJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzExMy4wLjAuMCBTYWZhcmlcLzUzNy4zNiIsImRldmljZUlkIjoiNTZkMTdlNGQtZmM0NS00OWM4LTkxMTUtNmNjMzliMmJiNmRkIiwiaXBBZGRyZXNzIjoiMTgxLjk0LjIzMy4xOCIsInN0cmVhbWluZ1R5cGUiOiJOb3QgRnJlZSIsImlhdCI6MTY4NDI5MzE4OCwibmJmIjoxNjg0MjkzMTg4LCJleHAiOjE2ODQzMDc1ODh9.ABXmotuoPMJ_sLEa0Tq7Eoajje1GSl4rJlXnLQif2qM",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/1c54.json"  
       }
     ]
   }   
