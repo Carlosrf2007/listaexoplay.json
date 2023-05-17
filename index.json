@@ -1,32 +1,5 @@
 [
   {
-    "name": "UEFA CHAMPIONS LEGUE",
-    "samples": [
-      {
-        "name": "STAR+",
-        "uri" : "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/05/17/Manchester_City_vs_Real_M_20230517_1684342829019/ctr-complete.m3u8.cctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://ddddplay.000webhostapp.com/lili.php?token=eyJ6aXAiOiJERUYiLCJraWQiOiJRVmxCQXpUeFUzMVRtNWVfZTIzams0dFpwRWJpRERteWp6MDNsSS1hRVVBIiwiY3R5IjoiSldUIiwiZW5jIjoiQzIwUCIsImFsZyI6ImRpciJ9..YAhDHv5iLGb6QbDu.5OEmAsXfxCK7ejVJtaKYrD8_YmIDoLEubcdOKA1Y4uH9kWL858Yx6eE2jCkXujWsjt0hM7Ro9Hft4zSZTHkpSot08xxgzj6ku4URAsvbKwxDKPOj8VB6k6KysJylurdlVHcRXt9VW9zi8BlWqN_A40qh4_44r37UAlCF21XLOiq63DLXhcXpgRvA7UpyWHFNy-YqyYGJdUzBfi6Rg7PD2hUd1hOc6McMcPzLcHaLU_g3VDpTMAQAzhQTFTNuufuaecdV8Ithk5umW9Deeo0uciRAzewPcNcZqkHVHWGjdjZscMk-ku2z3zh1giIblb808Kwocw5lNpOBEKpCYNIbHJ4qiWrK7uzP3azmytkJKJvxYHFf4Ud7pZrg3lepdQrJe5PX_iFk2yhfvkMHjURs-Da9s-orFvFkfoCHzZVC5FacteHD6Zmrqi7qZ7rvpbURAClDhARM0meNoTG-dFstZ6uSxaVQw2K2s7g08iF_yhaNs95lsnZcnYVqZZyJQ7nybn4PIPdXsW_w93txRAdO_FflItRf1JXbZUg8ZlRoGuFzo1ZFbIc0IJpwihPIHb4rW9FLmIF8zrMB-m45-ToC1VLFtnWRAuKhVcBSpe7WFTK7OoQMnVmoSe5wo4Wv9h9RJy1iD5gWoDqBjzu1DgYdPzkSo8EUxvtbMJCqSGfZ2VzMo_bw-lIDaHU6Z5NWsIu-VBu8SjLego0aj2gMsotOl6BlZPgYJPWRMQPmoxmbdQAgYs7aZ4-ZIcVIKCshWnexSD3QA4T1FV9cfKO3k9_ZwbTbQJzK5RTmMe7Sd80WivdylDrnz67V4UXTUcFIpkrvfVV4LCC5qQRJTV3QrpKYuKaNcvrA6YTaeT50KJvNNBMweuisp5KixTOt81EjJ4G7SvMuOP2IRm-q-GLXUmRQKZ42oLtYGz6FqJj-Rt5TdpR_A0mgDKh-8DgnWaYq-YL3PQE8gYDCL_z2-3ks2z4irc_dPR14Utj3z9n9yby96WLWUu-d8ZK0_E4TUBpXoKSQqmMPhuFHldkpwpkj7AIERyzVFvBWHAzhTNyAuxwHQmsuBfzY020WA1QUCEMWbIJpLkfLPhIJFsPRTpzxdpwiTORFZTMHSuAbN4y_cI6g3wMkQSMEQ6_UG17GPTDmrKG3E7J_Mw-LrtpLFEvYQTTbB0kKYDcrBhVU6TuG5vnROBHjaX06JL4T5V3NDd0Eh15jRsmQizzEgd3mszwvwztmP3WNNBXR88Rg8Gnhr2wdu8bFnBkgBLpLKdI3upROtQX29YjM8tWFwYeIOvoDBP8MRZHBsdnrnplrMp3JXckTeAlxnQfRjdvWRKw425g3Jk-PjZXVvHK5o12C78emfpoq6VtbG09RayPbE7a7T4IPo25tVkyCkukqgI_L87q1PZA4cGJPZF30Ktd7S2mdVa0DIZvQjYQK4hZapmRJIxBmmdn4eJVaIHMas5IVhJQXLnVhSB9e1gcgIkv__swz5ekXfHu2mYRoGQPtlpX6n7S_JfLPTLBpuf454qORUCrK4Df8mtxdMfxxc3Ck308Ew40L04_EQh1beROT8c45ONkaonzLcndg-F2bYoy6dXSQZ4WZYK4HSVxwanWMPj4zdwuSz-ieaAMenb3EIjBo1LE8FBsBqxcvhRXGId3_Pafwmeny9PufURp3OPjHtyIAJlTfohjbCGaT93hE1tKiq9gIqQsoD3_iMMGmO16SnhgJannxvqMd-n_4Y8_420jnX0ybBa31tDS0YkJMNzbAOCEvgwOeAAldCoPNJxzroRPbTddKNbzfDGRawu9nJ5j1ReT_wVKUeHTNww_FvKnsp2MNTk3n096HFpdpUJ7BMa-icUzHUtHv_DKtb7WD_DuxRqrbfnSzR7iCH8tGN5ZCq7YsGSwELvKpjOKOwrz4abngRRmctPesBsF9mCxKwePd-dXRHE7ozdL6qU4PRpZN_DEMHJ99znZ0rzo1pEDEdOgQ8TvEA7C_j2naZb2BV-ilUYOqriAmXVxlbqbFvcv_uydb_mxA1Rn9ruhmpqCKdDijb8pGCPB7U9i67S4TvstpKcHjoihPO0c1REhCDL52c30zH5lLGxcuHyLmp3BlWO9agaQgieoFdZQYOKsd6JNES2IDEp6BGJLmj-IZdPUL91_MTOsl43Sy3tMm-QjZGS7Mtbz6u7A6lN7VgkoEqmuEwQWYsDeR3AEJycpci3VGMUP04nY1f8b_VpnsGyZThdyn3V-xC4Dylhs_zKowJ_Wa_mKXe8UJiAYsIUU895XYOtjG30NeLClnyQKAImLSuZVmEXawLdoDMWa9ND8yGQL8SkzGsyPm8x8h-YYKY3AmJWUcEogSEmj9CaalgWsN6juRENTt7PSLnIMWX_n79zdOCAlPqptNENjt817f_tvn0WvLt4i8oPmR9brofqk0iLgCeiKgYzdgWm93AbjK0qdEa1FrMtgroVtT5kSWwKuxteGHyHe0D6YjgoSPI4BKw1ddEyV0Qp8z3SbHKIk28G4g2rZ5xWNF6PtDEQgd4P8aIwgzSHYnh59CbGu4PHs4AK8WuY1kiuGQYPxS39n_8qzLFTf_h_lNODOWwPHdCpzfoL9w5S4MO3EHI8N_BpbaKbs57yZGUW3mAScsa5SlR_LmO-PdVOpV-UB4MdkbomC4JWgwfbimY8HBcxXQ_alD1P4SsKzfFoA-iupqsKX0XGaXvBEZuHxV-S15ibjyYy1EOhMcFSGQOjhF4uip6U8a_8q56FnOfPrtdQpf-ugK2EY1PvozG-kdZg_LniIBg7gMsBlo3gDLlGa6gXj674ExTQGI0l67XtY6I4rtp2HHqs86HhOtU6MKMifH_LuNL1qW.-xg2Sttr9sogUZ7CVbZ3_w"  
-      },
-      {
-        "name": "VIX",
-        "uri" : "https://dcs-live-uw1.mp.lura.live/server/play/7GnqnNT9v6Prtroj/manifest.mpd?anvsid=m177610516-nc70d2c6895d4e599f670381020579995",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://drm3.mp.lura.live/cenc?eqp=t3ICJJ6nkJrpnM72dI7KLtKQbXrOINVkQe3VgYfKEXMP3kc1HHyCjApyiUy8_WTN2U9hzNdtHe3zNrwBxoJY_H4TUAj59Bwwd8NgIoyd4aSL4wcE6bUKnfusI_cCRJYyTQ62auIWIYP1sLHEvcoRUIpJptX9tdEaR-95q0I5QCroABWC5VO5repydHiyHFt_ye4z-gLAYiD-mm-Jy7oB587njF0rLCzyO8e_vGcZ2N7_KZBda81ICBbdaLMTBCzP-5tusASu96B8bKwkOcrVaN3tWJSFSWzb2S9OVui8eErBAxkxHkwA5YUYKmzE90QP&anvauth=tb=0~te=1684303530~sgn=788c52ce0966ac467da99c088c9565feb1e6cb83814df79639f6d109422967ab&t=1684292730&guid=f50bebb7-8aea-aae7-9ca3ae9f2fd9"  
-      },
-      {
-        "name": "TUDN",
-        "uri" : "https://nffthex0kzt.xyz/rk/tJ6t3hZMfS/cudyrDt7sa/913.ts",  
-      },
-      {
-        "name": "TUDN HD",
-        "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/TUDN.json"  
-      }
-    ]
-  },
-  {
     "name": "EVENTOS",
     "samples": [
       {
