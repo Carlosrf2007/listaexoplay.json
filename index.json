@@ -108,7 +108,7 @@
       },
       {
         "name": "NPY PY",
-        "uri": "https://edge03-cde-py.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_2A/NOTICIAS_PY_C4.mpd",
+        "uri": "https://edge-live15-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_2A/NOTICIAS_PY_C4.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/npy.json"
       },
