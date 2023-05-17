@@ -373,7 +373,7 @@
       },
       {
         "name": "star+",
-        "uri" : "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/05/17/Denver_Nuggets_vs_Los_Ang_20230517_1684278049021/cmaf-cenc-ctr-7000K/7000_complete.m3u8",
+        "uri" : "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/05/17/Denver_Nuggets_vs_Los_Ang_20230517_1684278049021/ctr-all-complete.m3u8",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://star.playback.edge.bamgrid.com/widevine/v1/obtain-license"  
       }
