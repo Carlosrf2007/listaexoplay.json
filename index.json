@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "EVENTO GOTI 1",
-        "uri" : "https://www.mediaserver.express/live//CXwCXhl6/index.m3u8"
+        "uri" : "https://ssh101.bozztv.com/ssh101/playtv2/chunks.m3u8?nimblesessionid=871326"
       },
       {
         "name": "EVENTO GOTI 2",
