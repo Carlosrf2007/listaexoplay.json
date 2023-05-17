@@ -444,6 +444,12 @@
       {
         "name": "TUDN",
         "uri" : "https://nffthex0kzt.xyz/rk/tJ6t3hZMfS/cudyrDt7sa/913.ts",  
+      },
+      {
+        "name": "TUDN HD",
+        "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/TUDN.json"  
       }
     ]
   },
