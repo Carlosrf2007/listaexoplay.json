@@ -368,16 +368,57 @@
     ]
   },
   {
+    "name": "UEFA CHAMPIONS LEGUE",
+    "samples": [
+      {
+        "name": "STAR+",
+        "uri" : "https://linear-spc-sa-east-1.media.starott.com/clt2/va01/starplus/event/2023/05/17/Denver_Nuggets_vs_Los_Ang_20230517_1684278049021/ctr-all-complete.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://ddddplay.000webhostapp.com/lili.php?token=eyJ6aXAiOiJERUYiLCJraWQiOiJRVmxCQXpUeFUzMVRtNWVfZTIzams0dFpwRWJpRERteWp6MDNsSS1hRVVBIiwiY3R5IjoiSldUIiwiZW5jIjoiQzIwUCIsImFsZyI6ImRpciJ9..8y87fxAIkWD2XKEq.BVf7nizKYFZk2LbVn8KZYuYB6Z8xumbbs9yIjjL4zhYMrNlmeTKv_yLZStHbMG99r6wPdKPX_iEp7X75qO5qnk6NViObZfVBZLkxsjJghzshhLllpwqW9C4eM_FVlBIyD4hALy_emsX4JedtZEnCvQeXcLSJmhf3iIsbk5kXzBImd7Mv6Uvfys0jLiZx1mgyz9aCnPaCY3lyTzvBUJF0Z6wFH_NX6qZjzLGlvlTIBQqueByhx0-K2IS7UYdSzKVIEsgFqtG0FihnclTvyi7G-Hp0FhDP9-qV4qPS_GDAYxmeyM3L5Zey7tdpLZPhSv6rTy4gcnbIuozIWInOg6o9J1sU8bTgyI477H124nNbYuKg1Qcz6-RKsTovKWfH1o7CBZwgQpxPohwZfkCJjKpx7bymQo_wpj1mcmy8AO1-gGwzw07qscT1F2Ps6-IgNlau6XUD8V7dot8DSTHnXfXf19HlO8IAKk5SUjmcwMyhNTnaU0998zlgYWqTPrVqI7XyV1fQ6dro-9bTeZQZwpeIJ6cT-Z_Pgg_E3oabtcX3NIvrhWM4x-SlgP1rjA3jnHNhWS2w_dyOGcnaboWmKYg19AV5A9aEe69mdrSNu6GhwxhjX-5ZOLAT70MJAfAa6kvBYHVZ2vtQDywnY8xZnEgq9CWXAwjCssgOGm_2Sum6rlvlgD-Gw8tzwqZ7h42-hCFqfzvU2rjfNzCUnL0XCquMES-z12K4ievYYFC4TstwZrhlHN0BxVXxi6ppR7YjlfZJmd5pLRQ_YESd7nqmp6-GxgjijAWXxW2SELZGz2D1W8hRVEODX29CjhnbnTpWLveJr_q706VqM3svacrSGrefFEahk9pOk8lHp6alfcgxKqWnLjrEuaHefwkV5zMROohToyXaEWN0RWH8CQ7QTDObQH2NqlxabuVFExZZqSAue8ucwsVtZm5K3lYSEEsjwoYNqnEKrk7ovrQxizYLhKTQR16BS9jBY1cb0VxAu4PTUjsChIAES7SUJ635rmv6x7j54wRKlJENtVBUQwv9BpoTjQxQCiEzptK2S0DyKB1UQsy_0cfJromsM1IQw-kI5Ko-KGHCxF8NKYhC1-6_yH-d94fxXCaaS4HGXyKAeSAVWC8MdY4Xb3HMXd45zgRodisUP3eo8sCENfZ-YKiWKjgZbUNk52yhHdgVkFVYZ0k5NFAIKiVTbbpZWRvE4PBjeJNwcqQynknKdZglFoc6XRPxH2bD5-361lA-C4PbpbcNqYIFxC9q6varmEibQVOkqw082h5Qp9YJeGh5RfZYq24WPWcqNcy7Tod4SkPvl-bcsX22LPuawwezeQTHIJC20gm2hHr9GlC34w8hZqGw2gBCeoNOeVCsgdK1qqIguDaldIIkYFKpzM58GDIIiBzLI0Oeil0u20B8ozppKcQUTaiGu1jJQCxcBGtR6HEGTiAP2GzEaYfkNHWHPFW46SVzUg4-hxAphKLPCjV4lvgcu3i_XxgouxztRRXsSLJsTyZ6zNPHTvFsKzy2Op26qd33uuNBs0BdUCNfDQDox0S_Oyc1yFHArFcBlAAUeVAvtf373BOaxAy7qYgouXxbJKZv-ZqYT1MkMuBPCxNiWXgx8CFUImhJ_O8W2zrmHLIxsqpJJLUsM32yj24ub3JKVeE6UJdWcNTEMMh1ERp7g_QZeZwp5rXkUcCnveQ_O32KQMuXtFPb0nFVb4S-F012gFthOtN9dZpMxD6tK_5n7qOU8sw_KkeKf2eIIrE52jLnAypnAxZ4GGtcq9FO3-m4XfWUGZk4KRa6p7pZHEEYSDGQytCt39d7eqnx_82cl93mXxJKiO2BeVcow0DU3PDDo1Xi-scbmoSlb4DpWYBMD-J41tycZT5i02T5Jokuol3zWZzVY0WBKKHjBP4YcxMEcxHuEjJ7RXagkpDeTxPuzZRA97y9M14jAn3ZF8iIRi3zs2FFttflHj0WNjp5ebsMDj8QUs6o94sRdBLvfIevaBC7Pxwu8MW1VCoi3Unoxq6g4fD-klgNQG3LherEvKYgAVCGmSsp0LuXsuMfwUtEmwRDNLm_5q_wPJ85W3ha0A5DZwH5XrjJHNhvRuPg9kPc6ulaTncY5JnCoZBvmoG_wE28ZuxmnaP1-kx6F5AwUw-75a4x1lUU26fPwiXiki2C4PQE0X-jpEZibaueTHOwsJSZM2wUZKqxyjfbyHMtGuYKrW7aaCI_-A3ahlf_FOJiZk6GMAZcsw334PbSb5Oy1VKinUbm69ch-C57lgVVM7WvtpVtQuyQYxaenIi3JBDkHL6pTRcNeYM1zRbzctzYLjHOHw5dPRqUYnd9lz6Rjcqas6GVBzvU22CPVa2ejzNucLtQflnxFBJR8TTOnLjAWhcbMQZPH57UVPlDEQGkj1soeQTocYmlgq8ZSbqgfLb6MGNAgz4c5DRqbN4CHczXlV--aofndrlogLx1C1FTxSG5Szd3gJLcvbYFW0lCxfblRJFYLhDBK50RbVx8D3Z2xaBhJB4doPgsC4zjFrNRgNuXDZkh3UONA8Ea6IkMLPcg68Nd5Ykng_fVJTN9buwVEjg4DsA5JNjuXxnQJBNPxTYidzY33HkSTI1WP0LxpcSQSDgLmD63lWrPrrd38sItuCVIqk4EmU44LOpKYPs6xVGNKgbA6RrrAd_eW1pwo84CBrsQ4RLmcJkGDVPlJaVfSNAurccUW_5N5a9TZ9nwoW3zAjlIfuS4ScJJUWM0v09bylurcTQ6G4q-T8ETVawNOudo7Q7COJtxVwZBufsEmuZEwKszx6Ku1QzdeK2jEy1UUgbVaSVtE-YyZG_HBq4KW7mYHRD3Qb0SIPfrenpofu7YXri1jTPxGPi2ui940OWp4cnM96ahAGewK02NpR7B99WlIqs0KVEgrGKKUl9ABOFpkHJEuIarVDpDlkLF-FlYuQJ7RNH5jwuO3PTlOODV7Glvi4Zw6MlquZT8wHzP9Ztd8xlIn8S1xycYg8AKL9vjOn-5mhg2Z0ILpFFept940Ie4oI5GY0x5d9ju7aDABJ2-i52LK-GLoQQI-YCVx0BjKDyeefKLAxg00Cpmg71mK4lgcOmCLN8eHiRNDCRD5sU.8M95Y9XQpCugk07eKH2S5w"  
+      },
+      {
+        "name": "VIX",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN ESPAÑA 1",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN ESPAÑA 2",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN FORMULA 1",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      },
+      {
+        "name": "DAZN LA LIGA",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json"  
+      }
+    ]
+  },
+  {
     "name": "REPETICIONES FUTBOL PY",
     "samples": [
       {
         "name": "Olimpia vs. General Caballero JLM",
         "uri" : "https://d27sl0ch5ta2im.cloudfront.net/OlimpiavsGeneralCaballeroJLM16052023/OlimpiavsGeneralCaballeroJLM16052023.mpd?tts=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiYzBhMTQwMjAtZDY1OS0xMWVkLTg4MDUtMGRhY2VjNTA2YjFmIiwibmFtZSI6InRpZ284ODg2MEBnbWFpbC5jb20iLCJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzExMy4wLjAuMCBTYWZhcmlcLzUzNy4zNiIsImRldmljZUlkIjoiNTZkMTdlNGQtZmM0NS00OWM4LTkxMTUtNmNjMzliMmJiNmRkIiwiaXBBZGRyZXNzIjoiMTgxLjk0LjIzMy4xOCIsInN0cmVhbWluZ1R5cGUiOiJOb3QgRnJlZSIsImlhdCI6MTY4NDI5MzE4OCwibmJmIjoxNjg0MjkzMTg4LCJleHAiOjE2ODQzMDc1ODh9.ABXmotuoPMJ_sLEa0Tq7Eoajje1GSl4rJlXnLQif2qM",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://multidrm.core.verimatrixcloud.net/widevine"  
+        "drm_license_uri": "https://ts-ott.pxt.onl/api/v4/security/jwt-drm"  
       }
     ]
-  }
+  },
   {
     "name": "INTERNACIONALES",
     "samples": [
