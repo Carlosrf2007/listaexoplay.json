@@ -619,6 +619,10 @@
         "uri" : "https://edge-live16-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/A3_Cine.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"  
+      },
+      {
+        "name": "MOVISTAR ACCIÓN",
+        "uri" : "http://fxorexworld.com:8080/1x972R1iOa/zeOqSdWtxd/1094"  
       }
     ]
   }   
