@@ -4,11 +4,11 @@
     "samples": [
       {
         "name": "EVENTO GOTI 1",
-        "uri" : "https://ssh101.bozztv.com/ssh101/playtv2/chunks.m3u8?nimblesessionid=1131684"
+        "uri" : "https://b7i4j3n3.stackpathcdn.com/dlive-gomrrikwry/1684446518/src/live.m3u8"
       },
       {
         "name": "EVENTO GOTI 2",
-        "uri": "https://b7i4j3n3.stackpathcdn.com/dlive-fsvbrpqngj/1684357929/src/live.m3u8"
+        "uri": "https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/lJ1VKsIIOo0HUXtGw7fArTj7Qaq4KmekPMDRBKBzuabxeuDaupfRjoxvWcUi0RK7kDriOWo6qMe4tE6y91XaYQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
       },
       {
         "name": "EVENTO GOTI 3",
