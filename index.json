@@ -28,15 +28,6 @@
       }
     ]
   },
-      {
-    "name": "PELICULAS",
-    "samples": [
-      {
-        "name": "RAPIDOS Y FURIOSOS 10",
-        "uri" : "http://ok6-31.vkuser.net//ok.mp4?expires=1684556038888&srcIp=185.27.134.36&pr=10&srcAg=UNKNOWN_ANDROID&ms=95.142.206.35&type=5&sig=FjARTiDExhs&ct=0&urls=185.226.52.4%3B45.136.20.66&clientType=0&zs=65&id=4600704993908"
-      }
-    ]
-  },
   {
     "name": "CULTURA",
     "samples": [
@@ -644,6 +635,15 @@
       {
         "name": "MOVISTAR ACCIÓN",
         "uri" : "http://fxorexworld.com:8080/1x972R1iOa/zeOqSdWtxd/1094"  
+      }
+    ]
+  },
+  {
+    "name": "PELÍCULAS",
+    "samples": [
+      {
+        "name": "RÁPIDOS Y FURIOSOS 10",
+        "uri": "http://ok6-31.vkuser.net//ok.mp4?expires=1684556038888&srcIp=185.27.134.36&pr=10&srcAg=UNKNOWN_ANDROID&ms=95.142.206.35&type=5&sig=FjARTiDExhs&ct=0&urls=185.226.52.4%3B45.136.20.66&clientType=0&zs=65&id=4600704993908"
       }
     ]
   }   
