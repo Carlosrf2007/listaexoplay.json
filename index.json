@@ -357,6 +357,12 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "ESPN PREMIUM",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=OWVjZWEwNDkwYjE2NTRlN2RjYzVmYTJiYWYwYTM0YjE%3D"
+      },
+      {
         "name": "ESPN",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
