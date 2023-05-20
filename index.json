@@ -5,8 +5,8 @@
       {
         "name": "TIGO OFICIAL",
         "uri": "https://d2jluxxgx550su.cloudfront.net/out/v1/d26818b69b804b629c0f190e509a42b2/index.mpd?tts=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiODEzYjFhZjAtNTNhZi0xMWVkLTg3YzQtOWZjMTY2ZmUyNzA1IiwibmFtZSI6InJvZHJpZ2dlZGU5OUBnbWFpbC5jb20iLCJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzExMy4wLjAuMCBTYWZhcmlcLzUzNy4zNiIsImRldmljZUlkIjoiNTZkMTdlNGQtZmM0NS00OWM4LTkxMTUtNmNjMzliMmJiNmRkIiwiaXBBZGRyZXNzIjoiMTgxLjk0LjIzMy4xOCIsInN0cmVhbWluZ1R5cGUiOiJOb3QgRnJlZSIsImlhdCI6MTY4NDYwMjczMCwibmJmIjoxNjg0NjAyNzMwLCJleHAiOjE2ODQ2MTcxMzB9.orf4hYT8ckxoWIONcdM6n5_hmN75c8Ckohp8Ckp4TgI",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://multidrm.core.verimatrixcloud.net/widevine"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/d2jluxxgx550su.json"
       },
       {
         "name": "EVENTO GOTI 2",
