@@ -6,7 +6,7 @@
       },
       {
         "name": "OLIMPIA VS LIBERTAD 2",
-        "uri": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/VOmGGZc2FiiNpOTtw8L8hfhRb2yCAI6WYCTlYW0HAfHrwXe1pmRy-_SO78i5zdOfLGAMNq6z292yml6_m8wZJQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8"
+        "uri": "https://ssh101.bozztv.com/ssh101/playtv2/l_116264_3948065_394.ts?nimblesessionid=526582"
       },
       {
         "name": "OLIMPIA VS LIBERTAD 3",
@@ -26,6 +26,6 @@
       },
       {
         "name": "CERRO VS GRAL CABALLERO 2",
-        "uri": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/9RQ74bMcRSRvGrfPqAteS8LINQ6YOvDYRnOWIYEVjqkcLdCkNFuWB4JcmusWeYNBGCRrWFiLLWPji6Zb9KjkTQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8"
+        "uri": "https://vkvsd76.mycdn.me/hls/4419741616864.m3u8/sig/GJnaEikMtVI/expires/1684705377804/srcIp/201.218.157.2/urls/185.226.52.99/clientType/13/srcAg/CHROME_ANDROID/mid/4911017634784/4419741616864_high/index.m3u8"
       }] }
 ]
