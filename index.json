@@ -481,10 +481,6 @@
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
-        "name": "BEIN SPORT PREMIUM 1",
-        "uri": "http://fxorexworld.com:8080/1x972R1iOa/zeOqSdWtxd/44"
-      },
-      {
         "name": "TUDN HD",
         "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
         "drm_scheme": "clearkey",
@@ -525,6 +521,24 @@
       {
         "name": "TYC SPORT (PLAY 5)",
         "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8"
+      },
+      {
+        "name": "ARENA  SPORT 1",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 2",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 3",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
       }   
     ]
   },
