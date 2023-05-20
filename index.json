@@ -849,7 +849,8 @@
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
-      }
+      },
+      { "name": "Tottenham Hotspur vs. Brentford","uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/gru1\/qb01\/starplus\/event\/2023\/05\/20\/Tottenham_Hotspur_vs_Bren_20230520_1684576246024\/ctr-all-complete.m3u8", "drm_scheme": "widevine", "drm_license_uri": "https:\/\/ddddplay.000webhostapp.com\/lili.php?token=" }
     ]
   }   
 ]
