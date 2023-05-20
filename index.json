@@ -525,19 +525,19 @@
       {
         "name": "ARENA  SPORT 1",
         "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
       },
       {
         "name": "ARENA  SPORT 2",
         "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
       },
       {
         "name": "ARENA  SPORT 3",
         "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
       }   
     ]
