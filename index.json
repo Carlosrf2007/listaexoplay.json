@@ -1,5 +1,4 @@
-[
-    {
+[{
     "name": "EVENTOS STAR+",
     "samples": [
         {
@@ -40,7 +39,7 @@
         },
         {
             "name": "TIGO SPORT",
-            "https://ssh101.bozztv.com/ssh101/tvlat/playlist.m3u8"
-         }
+            "uri": "https://ssh101.bozztv.com/ssh101/tvlat/playlist.m3u8"
+        }
     ]
 }]
