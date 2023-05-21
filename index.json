@@ -4,7 +4,7 @@
         
 {
             "name": "goti",
-            "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/ESPNHDPY/ESPNHDPY/transmux/index.m3u8?ccur_fmt_type=fmp4",
+            "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
             "drm_scheme": "widevine",
             "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
         }
