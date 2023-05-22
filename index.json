@@ -1,12 +1,18 @@
 [{
-    "name": "EVENTOS TIGO",
+    "name": "EVENTOS TIGO Y STAR+",
     "samples": [
         
 {
-            "name": "TEST",
+            "name": "TEST ESPN FULLHD",
             "uri" : "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/ESPNHDPY/ESPNHDPY/transmux/index.m3u8?ccur_fmt_type=fmp4" ,
             "drm_scheme": "widevine",
             "drm_license_uri" : "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
+        },
+{
+            "name": "Roma vs. Salernitana",
+            "uri": "https:\/\/techflower.bio\/star_jwp.html?get=https:\/\/live-ftc-na-south-2.media.starott.com\/gru1\/qb01\/starplus\/event\/2023\/05\/22\/Roma_vs_Salernitana_20230522_1684767021045\/ctr-all-complete.m3u8",
+            "drm_scheme": "widevine",
+            "drm_license_uri": "https:\/\/ddddplay.000webhostapp.com\/lili.php?token=eyJ6aXAiOiJERUYiLCJraWQiOiJRVmxCQXpUeFUzMVRtNWVfZTIzams0dFpwRWJpRERteWp6MDNsSS1hRVVBIiwiY3R5IjoiSldUIiwiZW5jIjoiQzIwUCIsImFsZyI6ImRpciJ9..4XilgtbJs_gn3Yb7.xFJwQfgBbE6qfzbHbdmEYUnNv6pwTP8aG74UmWruqEY-mi08Tu3bMPePXYq8c2EnXRhShcV-gLP6X18nEtiObrF7EuwU2XtKka8ph-ZEckjBgTSxDpDPcHyHhpicyyNJiNpMD3XMTFKgiOYp4gHZQ1Xosblyu0BRxf975_h13V9MYnivc-2rfbY13h6kSVuexPQDggPOwGz7pHCn8zb-X85GuctlHKXydWDcmDRzwWzuFOxx16sSI_9kfqJQDW-x8X_2MjllZUo-0zH_CGYAokElGOkxgR2zlJBDai_51id__CtnF-CB2P8WWixt3ux-8iuIXG4XF3_6iDVirK5rWFPHlITJpyPpkNpsABAbPeCVujrN0vT3dqgk-T75Tz_iF2qGqa1L1THByrRrETIN5qRQ-Qn7PMg0q3zI4_gh4rvVyMIjhIYfUaMhKvTMM57MKxAMnBp52oG4-5XKhsSGoKslcQUmuJoPXsA-pJnmWfCkOGqGkqhtpBioFBx9_v64yk-AZ_oNsSdUcCwVlzKrVgl6zuLh3FNqjt1Cs1WjTanRHEF3rMCTK58VtBjLs1GgKdoxdFywqJfTH6d2hwUp5td7hMIH2HhH5darC1XAtTR-a6u22j6PkTere2qoGPv4yeS0TkZ-5g1O6iujWSKshIrosfHy7eGQAYHM_XSF0ltTWq0LK0ToSFQk542HbPKNei-exotpltvQlPaNgrP7O9BeZr-byly6E9MhRHQZiZbQWrkw4zeOJYM8kr3_G4AmRyLh9uKyEpYl8iJteHu31eFgeGbALhnf7eeA3WbBFrJTSrYCGdN7yzjWUSNSHp_yz1bzLC__DzL55xMtMakPkirv2NUnQP8AfuRk2YLDhcTmc2i2WSaKKGcsK2gcyMFI7t4T9qzd0w7x2KeVUtQuGDF-5hbTdlgMWUsvUQhsB3PJE3ev9dKLsfmNpnjEXS0BYM4_pxr-K-TmvoMdabpyHaumZvKNz3rnLi5DwbIeSwR5Z3N1EdtrfOlBlIAFkMtdyRZK59NTosJaUiRC_KPJ9hwpJocT9CqTu5i-NwFUdO0CUlkQVZPLUJOSKf5MzmZAibiJsKcQPg18MnR_1SFuBS0yxlJ69jPOpJ5DJDJePYJbm5pOKzSvcq9oE72zhUasDDYd0tYC2QpTpu4lEQ_PNjuYwuUj2g0cbpzV7mmazGfyG-PMbNP5Jxf2i0WngszJ-vHU5y74F6wAP_3sxNqJxzqQ6tblX_ZWIDNOX3qQrlyHc26U7bAPhSmQ-D9fAJJuHBtUO4Hp654FLbLc8Mj-s8FvOJfNKkpVRDHTHHaeUo-rSKt6IJaUkp0OKambLokQjvnBczSqdBHT-cY3XV3FsCGVcg9inIJmMANCnl_EUTlHwWStmBdKoTZvImLcg1MDdaawPsWNbTvDBYDby7jZPZRpL3R3qDKHGN40JMY-Yh1VJMzg-WBynIRhDzA_x5Lhycdi06X-PrMsWGBlSTf4_tISvopoOYX6h09UyMaK4ZRNSMydbcyyi8yYeBZ3kCqOakAoHSO6DcCgikOXiojLpbgyT07g9tM-OkMLGwYKd4bDPdcwB3iq-SDzRORlz4FId1ZmctpDczWx2Cc13kEZRLbxd63Xr3EbOkqZt782UJQ2P3ygpGUp_q0ryMy6TkwqYo22KPJcAtkAIiAnInRMw8C_IqoMBuzxEtiQfJHVja1ezb7u-_UGoqG6agjwH4UY8_xzL2XlrrR8LC_J_ydNg-T4JMiN2XDX1K1ZQEGMBhmaGt1Ie9myTlBiNs9w88p1L49q48q-GT1lVvhYbkxH93CoAEUX_k1-_mvq3hRxoXMMDKNHdXzg3C_ZkaYXWDT5Pa7ovyirVIMUJNqDZt9YstIzzo6c1AbShJ38JXobPf75b_i1LYlOZNQi-kGneGK9KDXUQbVs9W1pOhF-B7BC-afLBVbzPRAHhg8OfgJXJQRUawe43E5cRi3QiDp_lPx1sv87WTVCl-A2Q7xYXqRMczDqUnaA2wEFi_vJU6u9gbeVuTrAt8iPqNtAVhWHoR8plIL0aPt0S3bN_-SFV_cxPNvmYVhJWrm6rZG_C7sic0c9yOBt9zkwRPQiBES58CnYKDkapHkmQbHhyFe8OJCHE3LmruIriOpLut4vhhfZ_fXimweykqU8PXMdiVm9hBF32uqTYa-vpU8wDimUYmutAysJz-NvCQIDN3rCaVfhL4dPCcZCfBM5X2Y8TwmAFNXW0VePTlGEOeiOLwDxC0A8I18jvdMUkLaAiYJn5o-2dqOz7dhDur4coG_xXzke0vsMT3RcW75Kr3nNSo4r_Id1wV7I3fNbepIkcoHN2WSsOuY04kF9e3zU8bRvCOiY35aHvEE2A_1gc8NU4WQzbRqxLTEHq7pI2tEBq12VVbjAtiRbX9xEWtl4d6LBua9AKKVU9gn-PmXr4MCsk53_TB-VqUhX1govkM2Pr_fibmotqqa83EfUOlTJRMSbkZZJcDdG1bgvI81-z7EhqBidYdr4TsWZEJORj-3KPcS4HNJ0eBT5fvItUWHLS5suGb7-TyAZryQFeLxYNDY4c8xx2r3Gmt4BvAr85Bgl3eIxBuxjpAhvg4wygGW-RJQYOpRARjoZXFbhUDl2I_DGF1NG5LvtLx_YW8JfosvDLOJCtUx9Rmro6EpZnCGQo09NKjp0ZG4wn53vkBy8pFvFfqwlnrgNDMCvwPMTlr0RPcoVwtIMNzJNliN7asCeAbishMnWQ9YMtnZYlPbrtGtE6OP5b1gSoWzZ5JEtUL4cWC8Wb6auiGEzrfAYpatXLUAMMB1pTU8hSNWZW2dVeIxM5_PMJkO83CTBQ63UcIHKmjMDkYqOr_EZphCkHCcNfmnfXJItseC62uTona1i_gzxYRRdw_RNYYxA0sA64HBifeWlJzWcwzoKe-etceZNhFudbOfc9hED2bofTSmXto8Hz0XgBAkJDFTb5mr_pbY.M59ZoRGJMbgNXJyZZCIkzw"
         }
     ]
 }]
