@@ -1,48 +1,10 @@
 [{
-    "name": "DEMO EXOPLAY",
+    "name": "PAGO",
     "samples": [
 
       {
-        "name": "SNT",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/snt.json"
-      },
-      {
-        "name": "GEN TV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/gentv.json"
-      },
-      {
-        "name": "SUR TV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/sur.json"
-      },
-      {
-        "name": "CANAL PRO",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/pro.json"
-      },
-      {
-        "name": "5 DIAS PY",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/5dias.json"
-      },
-      {
-        "name": "PY TV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/paraguaytv.json"
-      },
-      {
-        "name": "TV CÁMARA",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/tvcamara.json"
+        "acceso": "si",
+        "mensaje": "Por favor realizar el pago completo para acceder nuevamente a la aplicacion"
       }
 
     ]
