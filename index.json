@@ -1,14 +1,24 @@
-[{
-    "name": "PAGO",
+[
+
+  {
+    "name": "UNIMPIADAS 2023",
     "samples": [
+         {  
+        "name": "EVENTOS",
+        "uri": "https://testphp07.alwaysdata.net/universo/twi.m3u8"
 
+
+
+      },
       {
-        "acceso": "si",
-        "mensaje": "Por favor realizar el pago completo para acceder nuevamente a la aplicacion"
-      }
+        "name": "TELEFE ROSARIO",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0"
 
+      }
     ]
-}]
+  }]
 
 
 
